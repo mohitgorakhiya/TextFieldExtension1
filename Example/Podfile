@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TextFieldExtension1_Tests' do
+  pod 'TextFieldExtension1', :path => '../'
+  
+  
+end
