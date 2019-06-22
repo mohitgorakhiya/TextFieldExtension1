@@ -1,0 +1,16 @@
+PODS:
+  - TextFieldExtension1 (0.1.0)
+
+DEPENDENCIES:
+  - TextFieldExtension1 (from `../`)
+
+EXTERNAL SOURCES:
+  TextFieldExtension1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TextFieldExtension1: 8d77f45fbaf593031dfe95abfb9ca160b716d58c
+
+PODFILE CHECKSUM: 382af9491fb12cd1633bac9311187c0ea7888f3c
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,22 @@
+{
+  "name": "TextFieldExtension1",
+  "version": "0.1.0",
+  "summary": "A short description of TextFieldExtension1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mohitgorakhiya/TextFieldExtension1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mohitgorakhiya": "mgorakhiya91@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mohitgorakhiya/TextFieldExtension1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TextFieldExtension1/Classes/**/*"
+}
